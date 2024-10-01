@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://raw.githubusercontent.com/avipatilpro/avipatilpro/master/Hi.gif" width="48"></a> , I'm Kishan Ravat</h1>
+<h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://raw.githubusercontent.com/avipatilpro/avipatilpro/master/Hi.gif" width="48"></a> , I'm KishanRavat2298 Ravat</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Computer+Engineer;Full-Stack+Developer;Cloud+Engineer;AI+Engineer;YouTuber;Streamer;Editor;" alt="Typing SVG" />
@@ -23,17 +23,17 @@
     </td>
     <td align="center">
       <a href="https://www.instagram.com/mr_.rafik/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fmr_.rafik%2F&subtitle=@mr_.rafik&size=square" alt="Kishan Ravat">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fmr_.rafik%2F&subtitle=@mr_.rafik&size=square" alt="KishanRavat2298 Ravat">
       </a>
     </td>
     <td align="center">
       <a href="https://www.linkedin.com/in/rafik-shah-179875209/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frafik-shah-179875209%2F&subtitle=@Rafik+Shah&size=square" alt="Kishan Ravat">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frafik-shah-179875209%2F&subtitle=@Rafik+Shah&size=square" alt="KishanRavat2298 Ravat">
       </a>
     </td>
    <td align="center">
-  <a href="https://github.com/KISHAN" target="_blank">
-    <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FKISHAN&subtitle=KISHAN&size=square" alt="KISHAN">
+  <a href="https://github.com/KishanRavat2298" target="_blank">
+    <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FKishanRavat2298&subtitle=KishanRavat2298&size=square" alt="KishanRavat2298">
   </a>
 </td>
 
@@ -45,7 +45,7 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KISHAN&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" style="width: 200px; height: 35px;">
+  <img src="https://komarev.com/ghpvc/?username=KishanRavat2298&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" style="width: 200px; height: 35px;">
 </p>
 
 
@@ -56,57 +56,57 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
 <h3 align="center">Git Stats</h3>
 <div align="center">
- <img src="https://streak-stats.demolab.com?user=KISHAN&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+ <img src="https://streak-stats.demolab.com?user=KishanRavat2298&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
 
 <br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KISHAN&custom_title=KISHAN's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KishanRavat2298&custom_title=KishanRavat2298's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
 
 <br>
 <div align="center">
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KISHAN&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KishanRavat2298&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KISHAN&theme=highcontrast&hide_border=true" alt="Repos Per Language">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KishanRavat2298&theme=highcontrast&hide_border=true" alt="Repos Per Language">
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KISHAN&theme=highcontrast&hide_border=true" alt="Most Commit Language">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KishanRavat2298&theme=highcontrast&hide_border=true" alt="Most Commit Language">
     </td>
   </tr>
 </table>
 
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=KISHAN&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="KISHAN's GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api?username=KishanRavat2298&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="KishanRavat2298's GitHub stats">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KISHAN&theme=highcontrast&hide_border=true" alt="KISHAN's Profile Details">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KishanRavat2298&theme=highcontrast&hide_border=true" alt="KishanRavat2298's Profile Details">
 
 ### Top Repositories
 <div align="center">
   <table>
     <tr>
       <td>
-        <a href="https://github.com/KISHAN/fast-gemini-nano">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KISHAN&repo=fast-gemini-nano&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/KishanRavat2298/fast-gemini-nano">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KishanRavat2298&repo=fast-gemini-nano&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
       <td>
-        <a href="https://github.com/KISHAN/Weather-3d-ai-app.git">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KISHAN&repo=Weather-3d-ai-app&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/KishanRavat2298/Weather-3d-ai-app.git">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KishanRavat2298&repo=Weather-3d-ai-app&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/KISHAN/moviedjangoai">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KISHAN&repo=moviedjangoai&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/KishanRavat2298/moviedjangoai">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KishanRavat2298&repo=moviedjangoai&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
       <td>
-        <a href="https://github.com/KISHAN/speech-to-text.git">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KISHAN&repo=speech-to-text&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/KishanRavat2298/speech-to-text.git">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KishanRavat2298&repo=speech-to-text&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
     </tr>
@@ -114,8 +114,8 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 </div>
 
 ### GitHub Contribution Chart
-<a href="https://github.com/KISHAN">
-    <img src="https://ghchart.rshah.org/KISHAN" alt="KISHAN's GitHub Contribution Chart">
+<a href="https://github.com/KishanRavat2298">
+    <img src="https://ghchart.rshah.org/KishanRavat2298" alt="KishanRavat2298's GitHub Contribution Chart">
 </a>
 
 
@@ -126,26 +126,26 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
     <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />
   </summary>
   
-  <img src="https://myreadme.vercel.app/api/embed/KISHAN?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="KISHAN's GitHub Stats">
+  <img src="https://myreadme.vercel.app/api/embed/KishanRavat2298?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="KishanRavat2298's GitHub Stats">
 
-  <img src="https://github-readme-bento.vercel.app/stats/KISHAN?theme=dark" alt="KISHAN's GitHub Stats">
+  <img src="https://github-readme-bento.vercel.app/stats/KishanRavat2298?theme=dark" alt="KishanRavat2298's GitHub Stats">
 </details>
 
 <br>
 
-### KISHAN/README.md activity
+### KishanRavat2298/README.md activity
 <img width="100%" src="https://repobeats.axiom.co/api/embed/48c98af9cae40b4ae2cf354a0f544a52eb743a9f.svg" alt="Repobeats analytics" title="Repobeats analytics image" />
 
-<!-- [![Forkers repo roster for @KISHAN/KISHAN](https://reporoster.com/forks/dark/KISHAN/KISHAN)](https://github.com/KISHAN/KISHAN/network/members)-->
+<!-- [![Forkers repo roster for @KishanRavat2298/KishanRavat2298](https://reporoster.com/forks/dark/KishanRavat2298/KishanRavat2298)](https://github.com/KishanRavat2298/KishanRavat2298/network/members)-->
 
-<!-- [![Repography](https://reporoster.com/stars/dark/KISHAN/KISHAN)](https://github.com/KISHAN/KISHAN)-->
+<!-- [![Repography](https://reporoster.com/stars/dark/KishanRavat2298/KishanRavat2298)](https://github.com/KishanRavat2298/KishanRavat2298)-->
 
 <details>
-  <summary><img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;GitHub Star History for KISHAN&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" /></summary>
+  <summary><img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;GitHub Star History for KishanRavat2298&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" /></summary>
 
   <h2>Star History Chart</h2>
-  <a href="https://star-history.com/#KISHAN/KISHAN&Date">
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=KISHAN/KISHAN&type=Date&theme=dark" />
+  <a href="https://star-history.com/#KishanRavat2298/KishanRavat2298&Date">
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=KishanRavat2298/KishanRavat2298&type=Date&theme=dark" />
   </a>
 </details>
 
@@ -154,7 +154,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 <details>
   <summary style="font-size: 1.17em; font-weight: bold;">🏆 GitHub Profile Trophy</summary>
   <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=KISHAN&no-frame=true&theme=darkhub" alt="GitHub Profile Trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=KishanRavat2298&no-frame=true&theme=darkhub" alt="GitHub Profile Trophy">
 </details>
 
 
@@ -232,7 +232,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
 <h3 align="center">Leetcode Stats</h3>
 <p align="center">
-  <img align="center" src="https://leetcard.jacoblin.cool/KISHANh2272?border=0&radius=20"/>
+  <img align="center" src="https://leetcard.jacoblin.cool/KishanRavat2298h2272?border=0&radius=20"/>
 </p>
 
 
@@ -628,8 +628,8 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 <table align="center">
   <tr>
     <td colspan="3" align="center">
-      <a href="mailto:KISHANh3262@gmail.com" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=KISHANh3262@gmail.com&size=square" alt="Kenan Gain" style="margin: 10px;">
+      <a href="mailto:KishanRavat2298h3262@gmail.com" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=KishanRavat2298h3262@gmail.com&size=square" alt="Kenan Gain" style="margin: 10px;">
       </a>
     </td>
     <td align="center">
@@ -648,7 +648,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 <h3>
 <div align="center">
   
-⭐️ From [KISHAN](https://github.com/KISHAN) | Let's innovate together! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">
+⭐️ From [KishanRavat2298](https://github.com/KishanRavat2298) | Let's innovate together! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">
 
 
 </div>
