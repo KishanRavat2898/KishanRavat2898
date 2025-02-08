@@ -22,13 +22,13 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://www.instagram.com/mr_.kishan/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fmr_.rafik%2F&subtitle=@mr_.kishan&size=square" alt="Kishan Ravat">
+      <a href="https://www.instagram.com/kishan______ravat/?hl=en" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fkishan______ravat%2F&subtitle=@kishan______ravat&size=square" alt="Kishan Ravat">
       </a>
     </td>
     <td align="center">
-      <a href="https://www.linkedin.com/in/kishan-ravat-179875209/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkishan-ravat-179875209%2F&subtitle=@Kishan+Ravat&size=square" alt="KISHAN RAVAT">
+      <a href="https://www.linkedin.com/in/kishan-ravat-6649b3268/" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkishan-ravat-6649b3268%2F&subtitle=@Kishan+Ravat&size=square" alt="Kishan Ravat">
       </a>
     </td>
    <td align="center">
